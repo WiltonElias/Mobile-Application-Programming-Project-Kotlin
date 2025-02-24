@@ -1,2 +1,4 @@
-# -Algorithms-Data-Structure-Project
-Developed Spotify-like logic using C programming, focusing on algorithms and data structures for efficient data processing. Implemented optimized search, sorting, and data management techniques to enhance performance. Applied memory management and algorithmic efficiency to ensure smooth functionality.
+# Mobile Application Programming Project (Kotlin)
+- Developed EcoLogic, a mobile application using Kotlin, focused on environmental conservation.
+- Designed interactive challenges to encourage user participation in eco-friendly activities.
+- Implemented efficient mobile app architecture to ensure scalability, performance, and user engagement.
